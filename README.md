@@ -71,4 +71,4 @@ Migliorie:
 
 ## Ringraziamenti 🙏
 - Si ringraziano il Professore ed i Tutor per averci guidato lungo il percorso; 🥰
-- Si ringraziano i medici per il loro riscontro sul Dataset. 🫡
+- Si ringraziano i medici contattati per il loro riscontro sul Dataset. 🫡
