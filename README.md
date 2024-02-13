@@ -9,6 +9,8 @@ Collaboratori: [_Di Tella Nazaro_](https://github.com/OddlyHod), [_Amendola Alfr
 
 ## Tavola dei Contenuti 📋
 * [Informazioni Generali](#informazioni-generali-ℹ)
+  + [Cos'è?](#cosè-)
+  + [Obiettivi](#obiettivi-)
 * [Tecnologie Utilizzate](#Tecnologie-Utilizzate-)
 * [Features](#features-)
 * [Setup](#setup-)
