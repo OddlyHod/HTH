@@ -67,7 +67,7 @@ Il Progetto è: **_Completo_**. ✅
 È possibile migliorare le percentuali di accuratezza dei modelli, integrato il lavoro svolto, con un punto di vista medico/statistico.
 
 Migliorie:
-- Data Analisys con Approccio Medico 🫀
+- Data Analysis con Approccio Medico 🫀
 
 ## Ringraziamenti 🙏
 - Si ringraziano il Professore ed i Tutor per averci guidato lungo il percorso; 🥰
