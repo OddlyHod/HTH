@@ -19,9 +19,9 @@ Collaboratori: [_Di Tella Nazaro_](https://github.com/OddlyHod), [_Amendola Alfr
 
 
 ## Informazioni Generali ℹ
-### Cos'è?
+### Cos'è ❓
 _HtH_ è un progetto per l'analisi di cartelle cliniche al fine di creare, addestrare e validare un modello di ML, annotando quelle che sono le performance dei vari modelli considerati. 
-### Obiettivi
+### Obiettivi 🎯
 L’obiettivo che HTH si pone è quello di ridurre al minimo l’errore umano creando e sviluppando un modello di intelligenza artificiale per predire uno scompenso cardiaco.
 Tramite lo sviluppo di questo modello si prova ad automatizzare la diagnosi di uno scompenso cardiaco lasciando al medico più tempo per concentrarsi sul trattamento.
 
