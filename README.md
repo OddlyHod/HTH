@@ -41,11 +41,11 @@ Tramite lo sviluppo di questo modello si prova ad automatizzare la diagnosi di u
 - Modello Predittivo Funzionante
 
 ## Setup 🖥
-Per effettuare il setup del modello, bisognerà semplicemente scaricare il file __*"Hth_predict.py"*__ ed il file _***"Hth_heartTest.csv"***_. 
+Per effettuare il setup del modello, bisognerà semplicemente scaricare nella stessa cartella il file __*"Hth_predict.py"*__ ed il file _***"Hth_heartTest.csv"***_. 
 
 
 ## Utilizzo 🖥
-Per utilizzare il modello, basterà semplicemente inserire dei dati di input, se già normalizzati, e far partire lo script in Python, come da esempio:
+Per utilizzare il modello, basterà semplicemente inserire dei dati di input e far partire lo script in Python, come da esempio:
 ```
  input = {
     "Age": 0.05,
@@ -64,7 +64,7 @@ Per utilizzare il modello, basterà semplicemente inserire dei dati di input, se
 Il Progetto è: **_Completo_**. ✅
 
 ## Migliorie 🩺
-È possibile migliorare le percentuali di accuratezza dei modelli, integrato il lavoro svolto, con un punto di vista medico/statistico.
+È possibile migliorare le percentuali di accuratezza dei modelli, integrando il lavoro svolto con un punto di vista medico/statistico.
 
 Migliorie:
 - Data Analysis con Approccio Medico 🫀
