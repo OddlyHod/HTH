@@ -8,14 +8,14 @@ Collaboratori: [_Di Tella Nazaro_](https://github.com/OddlyHod), [_Amendola Alfr
 
 
 ## Tavola dei Contenuti 📋
-* [Informazioni Generali](#Informazioni-Generali)
+* [Informazioni Generali](#informazioni-generali-ℹ)
 * [Tecnologie Utilizzate](#Tecnologie-Utilizzate-)
 * [Features](#features-)
 * [Setup](#setup-)
 * [Utilizzo](#utilizzo-)
 * [Project Status](#project-status-)
 * [Migliorie](#migliorie-)
-* [Acknowledgements](#acknowledgements-)
+* [Acknowledgements](#ringraziamenti-)
 
 
 ## Informazioni Generali ℹ
