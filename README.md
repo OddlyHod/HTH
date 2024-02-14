@@ -53,10 +53,10 @@ Tramite lo sviluppo di questo modello si prova ad automatizzare la diagnosi di u
 
 ## Setup 🖥
 Per effettuare il setup del modello, bisognerà semplicemente scaricare nella stessa cartella i file 
-+ __*"Hth_predict.py"*__, _***heartStandardized.csv***_, _***"Hth_heartTest.csv"***_
++ __*"Hth_datasetPredictor.py"*__, _***heartStandardized.csv***_, _***"Hth_heartTest.csv"***_
 
 Se si vogliono testare i modelli su un dataset completamente scollegato da quello del training (__*"Hth_heartTest.csv"*__) mentre, scericare i file
-+ __*"Hth_inputPredict.py"*__ e "_***heartStandardized.csv***_"
++ __*"Hth_inputPredictor.py"*__ e "_***heartStandardized.csv***_"
 
 Se si vogliono testare i modelli con una singola cartella clinica. 
 
