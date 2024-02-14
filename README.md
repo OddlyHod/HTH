@@ -6,7 +6,7 @@
 
 → Heart Disease Predictor. ←
 
-📁 Data Analysis → Contiene gli script utilizzati per l'analisi dei dati;
+📁 Data Understanding → Contiene gli script utilizzati per l'analisi dei dati;
 
 📁 Dataset       → Contiene i dataset;
 
