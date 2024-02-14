@@ -46,7 +46,7 @@ Tramite lo sviluppo di questo modello si prova ad automatizzare la diagnosi di u
 
 
 ## Features 📝
-- Analisi Dataset
+- Data Analysis
 - Data Visualization
 - 4 Modelli Predittivi
 - Modelli Funzionanti ed Applicabili
