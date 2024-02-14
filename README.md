@@ -47,8 +47,9 @@ Tramite lo sviluppo di questo modello si prova ad automatizzare la diagnosi di u
 
 ## Features 📝
 - Analisi Dataset
-- 4 Modelli Predittivi Diversi
-- Modello Predittivo Funzionante
+- Data Visualization
+- 4 Modelli Predittivi
+- Modelli Funzionanti ed Applicabili
 
 ## Setup 🖥
 Per effettuare il setup del modello, bisognerà semplicemente scaricare nella stessa cartella i file 
