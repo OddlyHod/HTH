@@ -14,7 +14,7 @@
 
 📁 Documents     → Contiene la documentazione.
 
-Collaboratori: [_Di Tella Nazaro_](https://github.com/OddlyHod), [_Amendola Alfredo_](https://github.com/Alfredoame) e [_Xu Xin Yu_](https://github.com/XXY126).
+Collaboratori: [_Di Tella Nazaro_](https://github.com/OddlyHod), [_Amendola Alfredo_](https://github.com/Alfredoame) e [_Xu Xin Yu_](https://github.com/XXY126). 🙋🙋🙋
 
 
 ## Tavola dei Contenuti 📋
