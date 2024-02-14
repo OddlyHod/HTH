@@ -1,6 +1,8 @@
 # Heart to Heart 🩺
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/OddlyHod/HTH)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OddlyHod/HTH)
+![GitHub Repo stars](https://img.shields.io/github/stars/OddlyHod/HTH)
+
 
 → Heart Disease Predictor. ←
 
