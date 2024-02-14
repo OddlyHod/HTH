@@ -66,17 +66,17 @@ Per utilizzare il modello, basterà semplicemente
 + Far partire lo script, nel caso si stia testando col dataset;
 + Inserire dei dati di input e far partire lo script in Python altrimenti, come da esempio:
 ```
- input = {
-    "Age": 0.05,
-    "Sex": 0,
-    "ChestPainType": 1,
-    "Cholesterol":35,
-    "FastingBS":1,
-    "MaxHR":1.38,
-    "ExerciseAngina":0,
-    "Oldpeak":0.3,
-    "ST_Slope":2,
-  }
+ input_data = {
+    "Age": 62,
+    "Sex": 1,                                #M: 0, F: 1
+    "ChestPainType": 1,                      #TA: 0, ATA: 1, NAP: 2, ASY: 3
+    "Cholesterol": 208,
+    "FastingBS": 1,
+    "MaxHR": 140,
+    "ExerciseAngina": 0,                     #Y: 0, N: 1
+    "Oldpeak": 0,
+    "ST_Slope": 2,                           #Up: 0, Flat: 1, Down: 2
+}
 ``` 
 
 ## Project Status 👍
