@@ -1,8 +1,10 @@
 # Heart to Heart 🩺
-→ Heart Disease Predictor. ←
-
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/OddlyHod/HTH)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OddlyHod/HTH)
+→ Heart Disease Predictor. ←
+📁 Data Analysis → Contiene gli script utilizzati per l'analisi dei dati;
+📁 Dataset       → Contiene i dataset;
+📁 Documents     → Contiene la documentazione.
 
 Collaboratori: [_Di Tella Nazaro_](https://github.com/OddlyHod), [_Amendola Alfredo_](https://github.com/Alfredoame) e [_Xu Xin Yu_](https://github.com/XXY126).
 
